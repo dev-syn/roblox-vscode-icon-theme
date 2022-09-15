@@ -4,16 +4,16 @@
       "iconPath": "icons/legacy/file.png",
     },
     "_folder": {
-      "iconPath": "icons/legacy/folder.png"
+      "iconPath": "icons/new/folder.png"
     },
     "_script": {
-      "iconPath": "icons/legacy/script.png"
+      "iconPath": "icons/new/script.png"
     },
     "_localscript": {
-      "iconPath": "icons/legacy/localscript.png"
+      "iconPath": "icons/new/localscript.png"
     },
     "_modulescript": {
-      "iconPath": "icons/legacy/modulescript.png"
+      "iconPath": "icons/new/modulescript.png"
     },
     "_roblox": {
       "iconPath": "icons/legacy/rbxl.png"
