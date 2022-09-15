@@ -1,8 +1,8 @@
 {
-  "name": "roblox-vscode-icon-theme",
-  "displayName": "Roblox Studio Icon Theme",
-  "version": "1.0.1",
-  "description": "Roblox Studio icon themes for Visual Studio Code",
+  "name": "roblox-vscode-icon-theme-new",
+  "displayName": "Roblox Studio Icon Theme (New Icons)",
+  "version": "0.9.0",
+  "description": "Roblox Studio new icon themes for Visual Studio Code",
   "license": "MIT",
   "icon": "icons/logo.png",
   "engines": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vladmarica/roblox-vscode-icon-theme.git"
+    "url": "https://github.com/dev-syn/roblox-vscode-icon-theme.git"
   },
-  "publisher": "vladmarica"
+  "publisher": "vladmarica,dev-syn"
 }
