@@ -48,11 +48,17 @@
     "_run_service": {
       "iconPath": "icons/legacy/run_service.png"
     },
+    "_json": {"iconPath": "icons/new/json.png"},
+    "_src": {"iconPath": "icons/new/src.png"},
+    "_toml": {"iconPath": "icons/new/toml.png"},
+    "_typescript": {"iconPath": "icons/new/typescript.png"},
+    "_license": {"iconPath": "icons/new/license.png"}
   },
   "file": "_file",
   "folder": "_folder",
   "folderNames": {
-    "src": "_workspace",
+    "src": "_src",
+    "lib": "_src",
     "ReplicatedStorage": "_replicated_storage",
     "ReplicatedFirst": "_replicated_storage",
     "ServerScriptService": "_server_script_service",
@@ -65,11 +71,17 @@
     "StarterCharacterScripts": "_starter_player_scripts",
     "RunService": "_run_service"
   },
+  "fileNames": {
+    "License": "_license"
+  },
   "fileExtensions": {
     "lua": "_modulescript",
     "server.lua": "_script",
     "client.lua": "_localscript",
     "rbxl": "_roblox",
-    "rbxlx": "_roblox"
+    "rbxlx": "_roblox",
+    "json": "_json",
+    "toml": "_toml",
+    "typescript": "_typescript"
   }
 }
