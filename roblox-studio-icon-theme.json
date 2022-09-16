@@ -49,7 +49,9 @@
     "_markdown": {"iconPath": "icons/new/markdown.png"},
     "_lock": {"iconPath": "icons/new/lock.png"},
     "_wally": {"iconPath": "icons/new/wallyLogo.png"},
-    "_moonwave": {"iconPath": "icons/new/moonwaveLogo.png"}
+    "_moonwave": {"iconPath": "icons/new/moonwaveLogo.png"},
+    "_git_ignore": {"iconPath": "icons/new/gitignore.png"},
+    "_git_modules": {"iconPath": "icons/new/gitmodule.png"}
   },
   "file": "_file",
   "folder": "_folder",
@@ -70,8 +72,10 @@
   },
   "fileNames": {
     "License": "_license",
-    "wally": "_wally",
-    "moonwave": "_moonwave"
+    "wally.toml": "_wally",
+    "moonwave.toml": "_moonwave",
+    ".gitignore": "_git_ignore",
+    ".gitmodules": "_git_modules"
   },
   "fileExtensions": {
     "lua": "_modulescript",
