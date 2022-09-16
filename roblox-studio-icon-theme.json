@@ -36,7 +36,7 @@
     "_run_service": {
       "iconPath": "icons/legacy/run_service.png"
     },
-    
+
     "_folder": {"iconPath": "icons/new/folder.png"},
     "_script": {"iconPath": "icons/new/script.png"},
     "_localscript": {"iconPath": "icons/new/localscript.png"},
@@ -46,7 +46,10 @@
     "_toml": {"iconPath": "icons/new/toml.png"},
     "_typescript": {"iconPath": "icons/new/typescript.png"},
     "_license": {"iconPath": "icons/new/license.png"},
-    "_markdown": {"iconPath": "icons/new/markdown.png"}
+    "_markdown": {"iconPath": "icons/new/markdown.png"},
+    "_lock": {"iconPath": "icons/new/lock.png"},
+    "_wally": {"iconPath": "icons/new/wallyLogo.png"},
+    "_moonwave": {"iconPath": "icons/new/moonwaveLogo.png"}
   },
   "file": "_file",
   "folder": "_folder",
@@ -66,7 +69,9 @@
     "RunService": "_run_service"
   },
   "fileNames": {
-    "License": "_license"
+    "License": "_license",
+    "wally": "_wally",
+    "moonwave": "_moonwave"
   },
   "fileExtensions": {
     "lua": "_modulescript",
@@ -77,6 +82,7 @@
     "json": "_json",
     "toml": "_toml",
     "typescript": "_typescript",
-    "md": "_markdown"
+    "md": "_markdown",
+    "lock": "_lock"
   }
 }
