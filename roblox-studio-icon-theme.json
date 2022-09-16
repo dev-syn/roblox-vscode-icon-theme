@@ -3,18 +3,6 @@
     "_file": {
       "iconPath": "icons/legacy/file.png",
     },
-    "_folder": {
-      "iconPath": "icons/new/folder.png"
-    },
-    "_script": {
-      "iconPath": "icons/new/script.png"
-    },
-    "_localscript": {
-      "iconPath": "icons/new/localscript.png"
-    },
-    "_modulescript": {
-      "iconPath": "icons/new/modulescript.png"
-    },
     "_roblox": {
       "iconPath": "icons/legacy/rbxl.png"
     },
@@ -48,11 +36,17 @@
     "_run_service": {
       "iconPath": "icons/legacy/run_service.png"
     },
+    
+    "_folder": {"iconPath": "icons/new/folder.png"},
+    "_script": {"iconPath": "icons/new/script.png"},
+    "_localscript": {"iconPath": "icons/new/localscript.png"},
+    "_modulescript": {"iconPath": "icons/new/modulescript.png"},
     "_json": {"iconPath": "icons/new/json.png"},
     "_src": {"iconPath": "icons/new/src.png"},
     "_toml": {"iconPath": "icons/new/toml.png"},
     "_typescript": {"iconPath": "icons/new/typescript.png"},
-    "_license": {"iconPath": "icons/new/license.png"}
+    "_license": {"iconPath": "icons/new/license.png"},
+    "_markdown": {"iconPath": "icons/new/markdown.png"}
   },
   "file": "_file",
   "folder": "_folder",
@@ -82,6 +76,7 @@
     "rbxlx": "_roblox",
     "json": "_json",
     "toml": "_toml",
-    "typescript": "_typescript"
+    "typescript": "_typescript",
+    "md": "_markdown"
   }
 }
