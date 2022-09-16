@@ -1,7 +1,7 @@
 {
   "name": "roblox-vscode-icon-theme-new",
   "displayName": "Roblox Studio Icon Theme (New Icons)",
-  "version": "0.5.2",
+  "version": "0.6.2",
   "description": "Roblox Studio new icon themes for Visual Studio Code",
   "license": "MIT",
   "icon": "icons/logo.png",
