@@ -36,7 +36,6 @@
     "_run_service": {
       "iconPath": "icons/legacy/run_service.png"
     },
-
     "_folder": {"iconPath": "icons/new/folder.png"},
     "_script": {"iconPath": "icons/new/script.png"},
     "_localscript": {"iconPath": "icons/new/localscript.png"},
@@ -51,7 +50,9 @@
     "_wally": {"iconPath": "icons/new/wallyLogo.png"},
     "_moonwave": {"iconPath": "icons/new/moonwaveLogo.png"},
     "_git_ignore": {"iconPath": "icons/new/gitignore.png"},
-    "_git_modules": {"iconPath": "icons/new/gitmodule.png"}
+    "_git_modules": {"iconPath": "icons/new/gitmodule.png"},
+    "_images": {"iconPath": "icons/new/image.png"},
+    "_snippets": {"iconPath": "icons/new/snippets.png"}
   },
   "file": "_file",
   "folder": "_folder",
@@ -87,6 +88,10 @@
     "toml": "_toml",
     "typescript": "_typescript",
     "md": "_markdown",
-    "lock": "_lock"
+    "lock": "_lock",
+    "png": "_images",
+    "jpeg": "_images",
+    "jpg": "_images",
+    "code-snippets": "_snippets"
   }
 }
