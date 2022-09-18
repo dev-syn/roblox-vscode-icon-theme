@@ -1,8 +1,8 @@
 {
   "name": "roblox-vscode-icon-theme-new",
-  "displayName": "Roblox Studio Icon Theme (New Icons)",
-  "version": "0.6.2",
-  "description": "Roblox Studio new icon themes for Visual Studio Code",
+  "displayName": "Roblox Development Icon Theme (New Icons)",
+  "version": "0.7.3",
+  "description": "VS Code theme with roblox studio/roblox development icons",
   "license": "MIT",
   "icon": "icons/logo.png",
   "engines": {
@@ -13,13 +13,16 @@
   ],
   "keywords": [
     "Roblox",
-    "Rojo"
+    "Roblox Studio",
+    "Rojo",
+    "RobloxLSP",
+    "Roblox Development"
   ],
   "contributes": {
     "iconThemes": [
       {
-        "id": "roblox-vscode-icon-theme",
-        "label": "Roblox Studio Icon Theme",
+        "id": "roblox-vscode-icon-theme-new",
+        "label": "Roblox Studio Icon Theme (New Icons)",
         "path": "./roblox-studio-icon-theme.json"
       }
     ]
