@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]  
 
+## [1.2.1] - 2023-02-23
+### Added
+- Installation instructions in [README.md](README.md)
+### Changed
+- Fix date typo in [CHANGELOG.md](CHANGELOG.md) for v1.1.0
 ## [1.2.0] - 2023-02-23
 ### Added
 - `.luau` file support merged from [@Malakai0](https://github.com/Malakai0)
