@@ -72,7 +72,7 @@
     "RunService": "_run_service"
   },
   "fileNames": {
-    "License": "_license",
+    "LICENSE": "_license",
     "wally.toml": "_wally",
     "moonwave.toml": "_moonwave",
     ".gitignore": "_git_ignore",
