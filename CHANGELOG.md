@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `LICENSE` file to [LICENSE.md](LICENSE.md)
 - Add a portions copyright notice to the `LICENSE.md` file
 - [README.md](README.md) was improved with more precise information
-## [1.1.0] - 2023-09-17
+## [1.1.0] - 2022-09-17
 **Note:** This version was not released as my semantic versioning was messed up
 after I forked the repo my apologies. Next version or any afterwards will be consistent with [Semantic Versioning](https://semver.org).
 ### Added
