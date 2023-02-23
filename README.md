@@ -1,7 +1,7 @@
 # Roblox Studio (New Icons) for Visual Studio Code
 
 This is an Icon Theme Extension that will change certain folders and files
-into custom icons that are commonly used when developing Roblox projects. These icons are previewed below.
+into custom icons that are commonly used when developing Roblox projects. These icons are previewed below:
 
 ![Screenshot](icons/example.png)
 
