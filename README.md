@@ -32,10 +32,10 @@ Released under the MIT License.
 ## Icon Credit
 
 > (.lua, .luau, server.lua, server.luau, client.lua, client.luau and .rbxlx)
-> file icons is property of Roblox Corporation.
+> file icons is property of [Roblox Corporation](https://www.roblox.com/home).
 >
-> wally.toml icon is property of Uplift Games.
+> wally.toml icon is property of [Uplift Games](https://github.com/UpliftGames/).
 >
-> Moonwave icon is property of eryn L. K .
+> Moonwave icon is property of [eryn L. K.](https://eryn.io/moonwave/)
 >
-> Snippet icon is property of GitLab Icon & Illustration Set
+> Snippet icon is property of [GitLab Icon & Illustration Set](https://gitlab.com/gitlab-org/gitlab-svgs?ref=iconduck.com) icons can be viewed at [IconDuck](https://iconduck.com/sets/gitlab-icon-and-illustration-set).
