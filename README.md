@@ -20,11 +20,11 @@ Released under the MIT License.
 
 ## Icon Credit
 
-> `(.lua, .luau, server.lua, server.luau, client.lua, client.luau and .rbxlx)`
-> `file icons is property of Roblox Corporation.`
+> (.lua, .luau, server.lua, server.luau, client.lua, client.luau and .rbxlx)
+> file icons is property of Roblox Corporation.
 >
-> `wally.toml icon is property of Uplift Games.`
+> wally.toml icon is property of Uplift Games.
 >
-> `Moonwave icon is property of eryn L. K .`
+> Moonwave icon is property of eryn L. K .
 >
-> `Snippet icon is property of GitLab Icon & Illustration Set`
+> Snippet icon is property of GitLab Icon & Illustration Set
