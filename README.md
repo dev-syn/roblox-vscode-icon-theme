@@ -7,6 +7,17 @@ into custom icons that are commonly used when developing Roblox projects. These 
 
 ---
 
+## Installation
+You can install Roblox Studio (New Icons) with the .vsix file located
+in the [latest release](https://github.com/dev-syn/roblox-vscode-icon-theme/releases/latest)
+or either installing it from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dev-syn.roblox-vscode-icon-theme-new).
+
+Note: If you wish to install the extension from a .vsix file then you must do one of the following:
+
+1. Double click the .vsix file to start the installation proccess.
+2. "Extensions: Install from VSIX" command in in the Command Palette.
+3. Install from the CLI(Terminal) by running `code --install-extension the_extension.vsix`.
+
 ## Changelog
 This projects follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) that list changes made through versions.
 
