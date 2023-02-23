@@ -21,7 +21,7 @@ Note: If you wish to install the extension from a .vsix file then you must do on
 ## Changelog
 This projects follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) that list changes made through versions.
 
-[![Keep a Changelog](https://img.shields.io/badge/Changelog-1.2.0-orange)](CHANGELOG.md)
+[![Keep a Changelog](https://img.shields.io/badge/Changelog-1.2.1-orange)](CHANGELOG.md)
 ## License
 Released under the MIT License.
 
