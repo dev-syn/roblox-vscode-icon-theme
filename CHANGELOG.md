@@ -49,8 +49,8 @@ ___
 
 ## Version Comparing:
 
-[unreleased]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.3.0...HEAD>
-[1.3.0]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.2.0...v1.3.0>
-[1.2.1]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.2.0...v1.2.1>
-[1.2.0]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/releases/tag/v1.2.0>
+[unreleased]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.3.0...HEAD>  
+[1.3.0]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.2.0...v1.3.0>  
+[1.2.1]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.2.0...v1.2.1>  
+[1.2.0]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/releases/tag/v1.2.0>  
 ___
