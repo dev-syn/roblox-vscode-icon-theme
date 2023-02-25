@@ -11,11 +11,11 @@ ___
 
 ## [1.3.0] - 2023-02-24
 ### Fixed
-- 'LICENSE.md' files displaying markdown instead of License Icon
+- `'LICENSE.md'` files displaying markdown instead of License Icon
 ### Added
 - Credit links to [README.md](README.md) for icons
-- Keep A Changelog icon for CHANGELOG files
-- Add support for 'LICENSE' and 'LICENSE.txt' file to display the License Icon
+- Keep A Changelog icon for `CHANGELOG` files
+- Add support for `'LICENSE'` and `'LICENSE.txt'` file to display the License Icon
 ### Changed
 - Keep A Changelog icon background slightly darker for better visibility
 ## [1.2.1] - 2023-02-23
