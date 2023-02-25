@@ -19,6 +19,7 @@ ___
 - New [example image](icons/example.png) to reflect new icons
 ### Changed
 - Keep A Changelog icon background slightly darker for better visibility
+
 ## [1.2.1] - 2023-02-23
 ### Added
 - Installation instructions in [README.md](README.md)
