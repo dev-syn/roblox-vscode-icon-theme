@@ -74,7 +74,9 @@
   },
   "fileNames": {
     "LICENSE": "_license",
-    "CHANGELOG": "_changelog",
+    "LICENSE.md": "_license",
+    "LICENSE.txt": "_license",
+    "CHANGELOG.md": "_changelog",
     "wally.toml": "_wally",
     "moonwave.toml": "_moonwave",
     ".gitignore": "_git_ignore",
