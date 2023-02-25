@@ -5,6 +5,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+___
+
 ## [Unreleased]
 
 ## [1.3.0] - 2023-02-24
@@ -43,8 +45,12 @@ after I forked the repo my apologies. Next version or any afterwards will be con
 
 ## [1.0.1] - 2022-09-15
 Forked from https://github.com/vladmarica/roblox-vscode-icon-theme
+___
 
-[unreleased]: https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.3.0...HEAD
-[1.3.0]: https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.2.0...v1.3.0
-[1.2.1]: https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.2.0...v1.2.1
-[1.2.0]: https://github.com/dev-syn/roblox-vscode-icon-theme/releases/tag/v1.2.0
+## Version Comparing:
+
+[unreleased]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.3.0...HEAD>
+[1.3.0]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.2.0...v1.3.0>
+[1.2.1]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/compare/v1.2.0...v1.2.1>
+[1.2.0]\: <https://github.com/dev-syn/roblox-vscode-icon-theme/releases/tag/v1.2.0>
+___
