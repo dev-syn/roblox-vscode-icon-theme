@@ -36,6 +36,8 @@ Released under the MIT License.
 >
 > wally.toml icon is property of [Uplift Games](https://github.com/UpliftGames/).
 >
-> Moonwave icon is property of [eryn L. K.](https://eryn.io/moonwave/)
+> Moonwave icon is property of [eryn L. K.](https://eryn.io/moonwave/).
+>
+> Keep A Changelog icon is property of [Olivier Lacan](https://olivierlacan.com).
 >
 > Snippet icon is property of [GitLab Icon & Illustration Set](https://gitlab.com/gitlab-org/gitlab-svgs?ref=iconduck.com) icons can be viewed at [IconDuck](https://iconduck.com/sets/gitlab-icon-and-illustration-set).
