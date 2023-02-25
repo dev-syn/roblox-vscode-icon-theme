@@ -16,6 +16,7 @@ ___
 - Credit links to [README.md](README.md) for icons
 - Keep A Changelog icon for `CHANGELOG` files
 - Add support for `'LICENSE'` and `'LICENSE.txt'` file to display the License Icon
+- New [example image](icons/example.png) to reflect new icons
 ### Changed
 - Keep A Changelog icon background slightly darker for better visibility
 ## [1.2.1] - 2023-02-23
