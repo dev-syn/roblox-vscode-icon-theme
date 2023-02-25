@@ -45,7 +45,7 @@
     "_toml": { "iconPath": "icons/new/toml.png" },
     "_typescript": { "iconPath": "icons/new/typescript.png" },
     "_license": { "iconPath": "icons/new/license.png" },
-    "_changelog": { "iconPath": "keep-a-changelog-mark-32x32.png" },
+    "_changelog": { "iconPath": "icons/new/keep-a-changelog-mark-32x32.png" },
     "_markdown": {"iconPath": "icons/new/markdown.png"},
     "_lock": { "iconPath": "icons/new/lock.png" },
     "_wally": { "iconPath": "icons/new/wallyLogo.png" },
