@@ -14,7 +14,7 @@ or either installing it from the [Visual Studio Marketplace](https://marketplace
 
 Note: If you wish to install the extension from a .vsix file then you must do one of the following:
 
-1. Double click the .vsix file to start the installation proccess.
+1. Double click the .vsix file to start the installation process.
 2. "Extensions: Install from VSIX" command in in the Command Palette.
 3. Install from the CLI(Terminal) by running `code --install-extension the_extension.vsix`.
 
